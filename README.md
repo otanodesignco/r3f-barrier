@@ -1,2 +1,2 @@
-# r3f-barrier
-r3f barrier experiment using depth for the barrier intersection
+# Energy Beam VFX
+energy beam vfx using glsl and r3f
